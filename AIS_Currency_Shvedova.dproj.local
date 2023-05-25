@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.936,E:\Проект Обмен валют\AIS Currency\UnitMain.pas=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.069,E:\Проект Обмен валют\AIS Currency\Unit1.dfm=E:\Проект Обмен валют\AIS Currency\UnitCheckIn.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.342,=E:\Проект Обмен валют\AIS Currency\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.706,E:\Проект Обмен валют\AIS Currency\AIS_Currency_Shvedova.dproj=C:\Users\user\Documents\Embarcadero\Studio\Projects\Project2.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.484,E:\Проект Обмен валют\AIS Currency\UnitOperation.pas=E:\Проект Обмен валют\AIS Currency\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.855,=E:\Проект Обмен валют\AIS Currency\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.071,E:\Проект Обмен валют\AIS Currency\Unit2.pas=E:\Проект Обмен валют\AIS Currency\UnitAdd.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.425,=E:\Проект Обмен валют\AIS Currency\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.936,E:\Проект Обмен валют\AIS Currency\UnitMain.dfm=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.929,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.301,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.484,E:\Проект Обмен валют\AIS Currency\UnitOperation.dfm=E:\Проект Обмен валют\AIS Currency\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.669,=E:\Проект Обмен валют\AIS Currency\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.069,E:\Проект Обмен валют\AIS Currency\Unit1.pas=E:\Проект Обмен валют\AIS Currency\UnitCheckIn.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.071,E:\Проект Обмен валют\AIS Currency\Unit2.dfm=E:\Проект Обмен валют\AIS Currency\UnitAdd.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
